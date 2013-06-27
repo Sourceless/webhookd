@@ -1,0 +1,7 @@
+# Vimfiles
+*.swp
+*.swo
+
+# Python compiled files
+*.pyc
+*.pyd
